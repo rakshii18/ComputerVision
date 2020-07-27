@@ -1,0 +1,4 @@
+In this repository, I was experimenting with different Computer Vision features for image processing. I have used computer vision to 
+perform - background-foreground segmentation and Edge detection. 
+
+Note: The images used as background and foreground are not exactly the same. So, the results might vary a little
